@@ -71,7 +71,7 @@
 		echo "<table style='margin-left:529px;margin-top:100px' border='0'>
 				<tr>
 					<td>
-						<img src='../logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
+						<img src='logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
 					</td>
 					<td style='text-align:center'>
 						<h1>Wine Search</h1>
@@ -96,7 +96,7 @@
 		echo "<table style='margin-left:529px;margin-top:100px' border='0'>
 				<tr>
 					<td>
-						<img src='../logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
+						<img src='logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
 					</td>
 					<td style='text-align:center'>
 						<h1>Wine Search</h1>
@@ -153,7 +153,7 @@
 			echo "<table style='margin-left:529px;margin-top:100px' border='0'>
 				<tr>
 					<td>
-						<img src='../logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
+						<img src='logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
 					</td>
 					<td style='text-align:center'>
 						<h1>Wine Search</h1>
@@ -177,7 +177,7 @@
 		  echo "<table style='margin-left:529px;margin-top:100px' border='0'>
 				<tr>
 					<td>
-						<img src='../logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
+						<img src='logo.jpg' alt='Mountain View' style='width:150px;height:150px'>
 					</td>
 					<td style='text-align:center'>
 						<h1>Wine Search</h1>

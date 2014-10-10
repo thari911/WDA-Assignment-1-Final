@@ -2,7 +2,7 @@
 set_include_path('C:/wamp/bin/php/php5.5.12/pear');
 require_once "HTML/Template/IT.php";
 require_once "DB.php";
-require "../db.inc";
+require "db.inc";
 
 
 $template = new HTML_Template_IT("."); 

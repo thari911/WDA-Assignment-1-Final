@@ -1,7 +1,7 @@
 <?php
   set_include_path('C:\wamp\bin\php\php5.5.12\pear');
   require_once "HTML/Template/IT.php";
-  require "../db.inc";
+  require "db.inc";
 
   $connection = @ mysqli_connect($hostname, $username, $password,$databaseName);
      
