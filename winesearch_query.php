@@ -88,7 +88,7 @@
 			
 			echo "<div style='margin-left:450px;margin-top:70px;font-size:20px'><b>".'Your Start Year Must Be Smaller Than Your End Year!!!'."</b></div>";
 			
-			echo "</br></br><a style='margin-top:200px;margin-left:450px' href=\"Main Page.php\">Back to Search Form</a><br/><br/>";
+			echo "</br></br><a style='margin-top:200px;margin-left:450px' href=\"PartB_Form.php\">Back to Search Form</a><br/><br/>";
 	}	
 	
 	else if($min_cost > $max_cost)
@@ -113,7 +113,7 @@
 			
 			echo "<div style='margin-left:410px;margin-top:70px;font-size:20px'><b>".'Your Minimum Cost Must Be Smaller Than Your Maximum Cost!!!'."</b></div>";
 			
-			echo "</br></br><a style='margin-top:200px;margin-left:410px' href=\"Main Page.php\">Back to Search Form</a><br/><br/>";
+			echo "</br></br><a style='margin-top:200px;margin-left:410px' href=\"PartB_Form.php\">Back to Search Form</a><br/><br/>";
 	}	
 	
 	else
@@ -169,7 +169,7 @@
 			</table>";
 			
 			echo "<div style='margin-left:520px;margin-top:70px;font-size:20px'><b>".'No Search Results Matching Your Criteria!!!'."</b></div>";
-			echo "</br></br><a style='margin-top:200px;margin-left:520px' href=\"Main Page.php\">Back to Search Form</a><br/><br/>";
+			echo "</br></br><a style='margin-top:200px;margin-left:520px' href=\"PartB_Form.php\">Back to Search Form</a><br/><br/>";
 		}
 	  
 		  else
@@ -216,7 +216,7 @@
 		  }
 		  echo "</td></tr>";
 		  echo "</table>";
-		  echo "</br><a style='margin-left:130px' href=\"Main Page.php\">Back to Search Form</a><br/><br/>";
+		  echo "</br><a style='margin-left:130px' href=\"PartB_Form.php\">Back to Search Form</a><br/><br/>";
 		  }	
 		
 	  // (4) Close the database connection
